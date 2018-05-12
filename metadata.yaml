@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '25573'
     url: http://www.gutenberg.org/2009/agents/25573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22847#Official-Views-Of-The-World-s-Columbian-Exposition
 gutenberg_issued: '2007-10-02'
 gutenberg_type: Text
 identifiers:
